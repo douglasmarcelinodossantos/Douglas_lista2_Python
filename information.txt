@@ -1,0 +1,4 @@
+O valor da média da simulação é 3
+A média de satisfação é 0.3
+A média do custo é 5.055999999999999
+A média de contas é 8.05
