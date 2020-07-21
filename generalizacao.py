@@ -6,4 +6,3 @@ if __name__ == '__main__':
     for i in range(passos):
         sim = simulation.Simulacao()
         todas_as_medias += sim.run_model()
-    print(f'A média da experiencia de simular {passos} número de vezes é: {todas_as_medias/passos}')
