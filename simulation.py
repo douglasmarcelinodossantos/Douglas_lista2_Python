@@ -71,7 +71,6 @@ if __name__ == '__main__':
     media_satisfacao = minha_sim.media_satisfacao()
     media_custo = minha_sim.media_custo()
     media_contas = minha_sim.media_contas()
-    # salvar_information(f'O valor da média
     salvar_information(f'O valor da média da simulação é {media}\n'
                    f'A média de satisfação é {media_satisfacao}\n'
                    f'A média do custo é {media_custo}\n'
