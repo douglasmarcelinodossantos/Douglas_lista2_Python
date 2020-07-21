@@ -1,6 +1,8 @@
 Mestrado em Desenvolvimento e Políticas Públicas do Instituto de Pesquisa Econômica Aplicada - Ipea.
-Disciplina: Python para Modelagem Baseada em Agentes
-Aluno: Douglas Marcelino dos Santos
+
+Disciplina: Python para Modelagem Baseada em Agentes.
+
+Aluno: Douglas Marcelino dos Santos.
 
 Conforme sugerido pelo Professor Bernardo, na aula ministrada em 21.07.2020, foi elaborado o presente "readme.md" 
 com o objetivo de orientar a execução dos arquivos contidos neste diretório.
