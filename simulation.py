@@ -1,3 +1,5 @@
+"""As interações devem ser rodadas por essa Class "simulation.py" """
+
 import random
 from loja import Loja
 from agente import Agent
