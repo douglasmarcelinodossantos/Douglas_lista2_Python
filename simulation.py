@@ -54,10 +54,6 @@ class Simulacao:
                     loja_escolhida.conta.deposito(clientes.conta.retirada(loja_escolhida.custo))
                     clientes.satisfacao += loja_escolhida.satisfacao
                     return clientes.satisfacao
-                else:
-                    return False
-            else:
-                return False
         return self.media_satisfacao(), self.media_custo(), self.media_contas()
 
 def salvar_information(self):
