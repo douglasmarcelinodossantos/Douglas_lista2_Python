@@ -1,4 +1,4 @@
-O valor da média da simulação é 9
-A média de satisfação é 0.9
-A média do custo é 5.51
-A média de contas é 7.6
+O valor da media da simulacao: 10
+A media de satisfacao: 1.0
+A media do custo: 5.880999999999999
+A media de contas: 7.4
